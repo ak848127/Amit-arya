@@ -1,7 +1,7 @@
 # Amit-arya
 Quick karo startup founder - Amit Arya
-visit our website quick karo - quickkaro.in
-
+visit our website quick karo --
+https://quickkaro.in/
 salon booking project 
 https://salonwala.lovable.app
 
